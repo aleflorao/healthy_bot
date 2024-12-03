@@ -1,0 +1,3 @@
+Ideia: all the data will be about me and i want to built a bot that helps me to create a healthy life. 
+
+I want to integrate my bot to the informations from samsung health, and create a input that i will fill with food (because the samsung health already has info about sleep, exercise, water, breathing...) so with this input i want to bot to create healthy routines for my day/month/year...
